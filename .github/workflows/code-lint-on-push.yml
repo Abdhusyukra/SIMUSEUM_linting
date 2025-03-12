@@ -3,7 +3,7 @@ name: Laravel Code Linting on Push
 on:   
   push:     
        branches: 
-        -	'**' # Berjalan untuk semua push ke semua branch 
+        -'**' # Berjalan untuk semua push ke semua branch 
  
 jobs:    
   lint: 
